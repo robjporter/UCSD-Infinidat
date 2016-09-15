@@ -1,0 +1,167 @@
+<TaskDocList>
+	<TaskDoc>
+		<Task>Infinidat Create Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Create Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Create Host</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Create Pool</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>Infinidat Edit Pool</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Edit Host</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Edit Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Edit Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>Infinidat Delete Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Delete Pool</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Delete Host</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Delete Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Delete ID Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>Infinidat Add Host to Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Add Volume to Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>Infinidat Remove Host from Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Remove Volume from Cluster</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>Infinidat Disconnect Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Connect Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	<TaskDoc>
+		<Task>Infinidat Resize Volume</Task>
+		<Summary>Create volume(s) in selected Pure Storage FlashArray</Summary>
+		<Description> <![CDATA[
+			This task will create volume(s) in selected Pure Storage FlashArray. Please fill the provide required inputs.			
+			]]>
+		</Description>
+	</TaskDoc>
+</TaskDocList>

@@ -1,0 +1,7 @@
++INFINIDATAddHostToClusterFormAction
++INFINIDATAddLunToClusterFormAction
++INFINIDATAddNewClusterFormAction
++INFINIDATDeleteClusterFormAction
++INFINIDATDeleteHostToClusterFormAction
++INFINIDATDeleteLunToClusterFormAction
++INFINIDATEditClusterFormAction
