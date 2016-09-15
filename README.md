@@ -10,7 +10,7 @@ This work was created to integrate Infinidat arrays into UCSD director.  In this
 ## 1. A new pod type ##
 I created a new pod type, although not an official name, I have called it an "INFINI-POD".  This will allow, a hypervisor, UCS, Nexus and an Infinidat array to be added to form the "INFINI-POD".  The Infinidat array can also be added to a Generic pod, if you are building your own mixed environment or wish to add to a current pod.
 
-![alt text](https://github.com/roporter/UCSD-Infinidat/blob/master/site/screenshot2.png "Cisco UCS Director Infinidat Integration 1")
+![alt text](https://github.com/robjporter/UCSD-Infinidat/blob/master/site/screenshot2.png "Cisco UCS Director Infinidat Integration 1")
 
 ## 2. Infinidat array statistics ##
 As of now, a lot of data is being collected from the array and from research and customer conversations these are the stats that seem to be the most relevant to show.
