@@ -15,12 +15,12 @@ I created a new pod type, although not an official name, I have called it an "IN
 ## 2. Infinidat array statistics ##
 As of now, a lot of data is being collected from the array and from research and customer conversations these are the stats that seem to be the most relevant to show.
 
-![alt text](https://github.com/roporter/UCSD-Infinidat/blob/master/site/screenshot4.png "Cisco UCS Director Infinidat Integration 4")
+![alt text](https://github.com/robjporter/UCSD-Infinidat/blob/master/site/screenshot4.png "Cisco UCS Director Infinidat Integration 4")
 
 ## 3. Infinidat array management ##
 All elements have now got management capability.  On the volumes tab you can create, edit and delete volumes from within UCSD and the same is true for pools and hosts.  The hosts tab has additional functionality to create, edit and delete ports and lun mappings!  Cluster management has now been added, along with snapshot and clones!
 
-![alt text](https://github.com/roporter/UCSD-Infinidat/blob/master/site/screenshot5.png "Cisco UCS Director Infinidat Integration 5")
+![alt text](https://github.com/robjporter/UCSD-Infinidat/blob/master/site/screenshot5.png "Cisco UCS Director Infinidat Integration 5")
 
 ## 4. UCS Director tasks to automate Infinidat arrays ##
 There are a number of tasks currently in place and they are in various stage of development.  Below is a list of their current status;
